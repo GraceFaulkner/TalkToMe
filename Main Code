@@ -1,4 +1,4 @@
-#SPEECH RECOGNITION##############################
+#SPEECH RECOGNITION########################################################
 
 import speech_recognition as sr
 r = sr.Recognizer()
@@ -8,5 +8,6 @@ with harvard as source:
     audio = r.record(source)
     
 type(audio)
-r.recognize_google(audio)
-#################################################
+r.recognize_google(audio) #to be run on the console and not on the script
+
+###########################################################################
