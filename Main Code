@@ -8,5 +8,5 @@ with harvard as source:
     audio = r.record(source)
     
 type(audio)
-
+r.recognize_google(audio)
 #################################################
