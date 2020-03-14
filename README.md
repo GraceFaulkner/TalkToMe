@@ -8,7 +8,7 @@ This project is inspired by the Talk It Out initiative. The aim is to use machin
 - Pauses
 - Frequency (intonation)
 
-There is also the possibility to perform low-level analysis on the content of the audio file such as frequency analysis of these keywords. 
+There is also the possibility to perform low-level analysis on the content of the audio file such as frequency analysis of these keywords and word bias. 
 
 -----
 
