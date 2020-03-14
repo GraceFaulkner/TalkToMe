@@ -9,3 +9,7 @@ This project is inspired by the Talk It Out initiative. The aim is to use machin
 - Frequency (intonation)
 
 There is also the possibility to perform low-level analysis on the content of the audio file such as frequency analysis of these keywords. 
+
+-----
+
+This project will use python and audio files provided by the Talk It Out initiative. 
