@@ -11,3 +11,7 @@ type(audio)
 r.recognize_google(audio) #to be run on the console and not on the script
 
 ###########################################################################
+
+import re
+filename = 'snackbox_xx.dat'
+filename_new = re.sub(r'_[A-Za-z0-9]{2}', '', filename)
